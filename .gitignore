@@ -1,0 +1,19 @@
+# Excluded directories
+preprocess_data/
+__pycache__/
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+
+# Output images
+*.png
+*.jpg
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
